@@ -1,0 +1,38 @@
+.blog-container {
+  width: 60vw;
+  padding: 15px;
+  background-color: #e1edf2;
+  border-style: solid;
+  border-radius: 10px;
+  margin-left: 3%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+}
+.button {
+  background-color: cadetblue;
+  color: white;
+  padding: 10px;
+  border-color: aquamarine;
+  border-radius: 15px;
+}
+.bg-container {
+  background-color: #f5f9f9;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.create-post-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #4b4c4c;
+  color: white;
+  height: 100vh;
+  width: 100vw;
+  font-size: 24px;
+}
